@@ -508,7 +508,7 @@ function App() {
 
         <footer className="py-8 px-4 md:px-6 border-t border-zinc-900">
           <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
-            <span className="text-sm text-zinc-500">© 2024 Ian Rodrigues</span>
+            <span className="text-sm text-zinc-500">© 2025 Ian Rodrigues</span>
             <div className="flex items-center gap-2">
               <Code2 className="w-4 h-4 text-[#0066FF]" />
               <span className="text-sm text-zinc-500">com ❤️ e código</span>
@@ -518,7 +518,7 @@ function App() {
       </div>
 
       <a 
-        href="https://wa.me/5500000000000" 
+        href="https://wa.me/5527995085243" 
         target="_blank" 
         rel="noopener noreferrer"
         className="whatsapp-btn bg-[#0066FF] text-white p-3 md:p-4 rounded-full shadow-lg hover:shadow-xl fixed bottom-6 right-6 md:bottom-8 md:right-8 z-50"
