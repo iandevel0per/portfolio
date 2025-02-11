@@ -495,7 +495,7 @@ function App() {
             </p>
             
             <a 
-              href="https://wa.me/5500000000000" 
+              href="https://wa.me/5527995085243" 
               target="_blank" 
               rel="noopener noreferrer"
               className="scale-up reveal-delay-2 inline-flex items-center gap-3 px-6 md:px-8 py-3 md:py-4 bg-[#0066FF] text-white rounded-xl hover:bg-[#0066FF]/90 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl w-full md:w-auto justify-center"
